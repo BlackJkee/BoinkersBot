@@ -31,7 +31,7 @@ class Settings(BaseSettings):
          'inviteAFriend'
     ]
 
-    USE_PROXY_FROM_FILE: bool = True
+    USE_PROXY_FROM_FILE: bool = False
 
 
 settings = Settings()
