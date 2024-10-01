@@ -1,6 +1,6 @@
 [![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/boinker_bot/boinkapp?startapp=boink1197825376)
 
-#  AUTO FARM FOR BOINKERS💩💎
+#  AUTO FARM FOR Boinkers💩💎
 
 ## Recommendation before use
 
@@ -19,19 +19,24 @@
 |                     Auto tasks                     |     ✔️     |
 |                Auto upgrade Boinker                |     ✔️     |
 |             Auto spin wheel of fortune             |     ✔️     |
+|                   Auto elevator                    |     ✔️     |
 |           Support for pyrogram .session            |     ✔️     |
 
 
 ## [Settings](https://github.com/BlackJkee/BoinkersBot/blob/main/.env-example/)
-|          Settings           |                                 Description                                  |
-|:---------------------------:|:----------------------------------------------------------------------------:|
-|    **API_ID / API_HASH**    |   Platform data from which to run the Telegram session (default - android)   |
-|       **PLAY_GAMES**        |              Play games or just start farming (default is True)              |
-| **USE_RANDOM_DELAY_IN_RUN** |       Whether to use random delay at startup (True / False)                  |
-|   **RANDOM_DELAY_IN_RUN**   |               Random seconds delay (default is [5, 30]                       |
-|         **USE_REF**         |         Register accounts with ur referral or not (default - False)          |
-|         **REF_ID**          |   Your referral argument (comes after app/startapp? in your referral link)   |
-|   **USE_PROXY_FROM_FILE**   | Whether to use a proxy from the `bot/config/proxies.txt` file (True / False) |
+|          Settings            |                                 Description                                     |
+|:----------------------------:|:-------------------------------------------------------------------------------:|
+|**API_ID / API_HASH**         |   Platform data from which to run the Telegram session (default - android)      |
+|**USE_RANDOM_DELAY_IN_RUN**   |          Whether to use random delay at startup (default is True)               |
+|**RANDOM_DELAY_IN_RUN**       |               Random seconds delay for ^^^ (default is [5, 60]                  |
+|**USE_REF**                   |         Register accounts with ur referral or not (default - False)             |
+|**REF_ID**                    |   Your referral argument (comes after app/startapp? in your referral link)      |
+|**USE_PROXY_FROM_FILE**       |  Whether to use a proxy from the bot/config/proxies.txt file (default - False)  |
+|**ENABLE_AUTO_TASKS**         | 					Auto tasks (default is True)  							     |
+|**ENABLE_AUTO_WHEEL_FORTUNE** | 				Auto wheel Fortune (default is True) 							 |
+|**ENABLE_AUTO_ELEVATOR**      | 					Auto use elevator (default is True)							 |
+|**ENABLE_AUTO_SPIN**          | 					Auto use spin (default is True) 						     |
+|**ENABLE_AUTO_UPGRADE**       | 				Auto upgrade Boinkers (default is True) 				         |
 
 ## Quick Start 📚
 
