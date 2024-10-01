@@ -2,8 +2,6 @@
 
 #  AUTO FARM FOR Boinkers💩💎
 
-## Recommendation before use
-
 # 🔥🔥 PYTHON version must be 3.10 🔥🔥
 
 > 🇷 🇺 README in russian available [here](README-RU.md)
